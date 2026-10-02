@@ -24,7 +24,7 @@ Abrir http://127.0.0.1:8000/
 ## Panel administrativo
 http://127.0.0.1:8000/admin/
 
-Desde el administrador puedes agregar noticias. Estas aparecen automáticamente en Inicio y Noticias, demostrando carga de datos dinámicos desde SQLite.
+Desde el administrador puedo agregar noticias solo que se me fue la luz y no pude ponerlas a la hora de subir el pia ._.
 
 ## Puntos del PIA cubiertos
 - Sitio completo con Django.
